@@ -34,4 +34,7 @@ Ce projet consiste en une **analyse exploratoire et en classification non superv
 - Dendrogramme pour la CAH.
 - Courbe du coude pour déterminer le nombre optimal de clusters.
 
+---
+
+📖[Read the report](https://drive.google.com/file/d/1Zoe83P7liyG_8rxMZWSsp2wW58750ZQx/view?usp=drive_link)
 
